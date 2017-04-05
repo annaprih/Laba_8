@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Number>246</Number>
+    <TypeofAmount>Rur</TypeofAmount>
+    <Balance>2</Balance>
+    <DataOfOpen>27.02.2017 0:00:00</DataOfOpen>
+    <Sms>false</Sms>
+    <InternetBanking>true</InternetBanking>
+    <OwnerTemp>
+      <FLS>Sasha</FLS>
+      <DataOfBirthday>27.03.1998 0:00:00</DataOfBirthday>
+      <PasportInf>MP2135465</PasportInf>
+    </OwnerTemp>
+    <OperationTemp>
+      <TypeOfOperation>Transfer</TypeOfOperation>
+      <Sum>59</Sum>
+      <DateOfOperation>15.04.2017 0:00:00</DateOfOperation>
+    </OperationTemp>
+  </Account>
+  <Account>
+    <Number>14</Number>
+    <TypeofAmount>USD</TypeofAmount>
+    <Balance>10000000</Balance>
+    <DataOfOpen>28.03.2017 0:00:00</DataOfOpen>
+    <Sms>true</Sms>
+    <InternetBanking>true</InternetBanking>
+    <OwnerTemp>
+      <FLS>Anya</FLS>
+      <DataOfBirthday>08.04.1998 0:00:00</DataOfBirthday>
+      <PasportInf>MP5465465</PasportInf>
+    </OwnerTemp>
+    <OperationTemp>
+      <TypeOfOperation>Put</TypeOfOperation>
+      <Sum>82</Sum>
+      <DateOfOperation>15.04.2017 0:00:00</DateOfOperation>
+    </OperationTemp>
+  </Account>
+  <Account>
+    <Number>44654</Number>
+    <TypeofAmount>USD</TypeofAmount>
+    <Balance>1000000</Balance>
+    <DataOfOpen>29.03.2017 0:00:00</DataOfOpen>
+    <Sms>false</Sms>
+    <InternetBanking>false</InternetBanking>
+    <OwnerTemp>
+      <FLS>Anya</FLS>
+      <DataOfBirthday>08.04.1998 0:00:00</DataOfBirthday>
+      <PasportInf>MP5465465</PasportInf>
+    </OwnerTemp>
+    <OperationTemp>
+      <TypeOfOperation>Put</TypeOfOperation>
+      <Sum>82</Sum>
+      <DateOfOperation>15.04.2017 0:00:00</DateOfOperation>
+    </OperationTemp>
+  </Account>
+  <Account>
+    <Number>123</Number>
+    <TypeofAmount>NBr</TypeofAmount>
+    <Balance>8</Balance>
+    <DataOfOpen>30.03.2017 0:00:00</DataOfOpen>
+    <Sms>false</Sms>
+    <InternetBanking>true</InternetBanking>
+    <OwnerTemp>
+      <FLS>Liza</FLS>
+      <DataOfBirthday>15.02.2017 0:00:00</DataOfBirthday>
+      <PasportInf>MP2654545</PasportInf>
+    </OwnerTemp>
+    <OperationTemp>
+      <TypeOfOperation>Shoot</TypeOfOperation>
+      <Sum>20</Sum>
+      <DateOfOperation>14.04.2017 0:00:00</DateOfOperation>
+    </OperationTemp>
+  </Account>
+</ArrayOfAccount>

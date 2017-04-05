@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfOwner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Owner>
+    <FLS>Anya</FLS>
+    <DataOfBirthday>08.04.1998 0:00:00</DataOfBirthday>
+    <PasportInf>MP5465465</PasportInf>
+  </Owner>
+  <Owner>
+    <FLS>Sasha</FLS>
+    <DataOfBirthday>27.03.1998 0:00:00</DataOfBirthday>
+    <PasportInf>MP2135465</PasportInf>
+  </Owner>
+  <Owner>
+    <FLS>Liza</FLS>
+    <DataOfBirthday>10.05.1998 0:00:00</DataOfBirthday>
+    <PasportInf>MC5464654</PasportInf>
+  </Owner>
+  <Owner>
+    <FLS>Sasha</FLS>
+    <DataOfBirthday>29.03.2017 0:00:00</DataOfBirthday>
+    <PasportInf>MP25446546</PasportInf>
+  </Owner>
+  <Owner>
+    <FLS>Liza</FLS>
+    <DataOfBirthday>15.02.2017 0:00:00</DataOfBirthday>
+    <PasportInf>MP2654545</PasportInf>
+  </Owner>
+</ArrayOfOwner>

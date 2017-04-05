@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Number>123</Number>
+    <TypeofAmount>NBr</TypeofAmount>
+    <Balance>8</Balance>
+    <DataOfOpen>30.03.2017 0:00:00</DataOfOpen>
+    <Sms>false</Sms>
+    <InternetBanking>true</InternetBanking>
+    <OwnerTemp>
+      <FLS>Liza</FLS>
+      <DataOfBirthday>15.02.2017 0:00:00</DataOfBirthday>
+      <PasportInf>MP2654545</PasportInf>
+    </OwnerTemp>
+    <OperationTemp>
+      <TypeOfOperation>Shoot</TypeOfOperation>
+      <Sum>20</Sum>
+      <DateOfOperation>14.04.2017 0:00:00</DateOfOperation>
+    </OperationTemp>
+  </Account>
+</ArrayOfAccount>

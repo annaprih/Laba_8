@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfOperation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Operation>
+    <TypeOfOperation>Put</TypeOfOperation>
+    <Sum>82</Sum>
+    <DateOfOperation>15.04.2017 0:00:00</DateOfOperation>
+  </Operation>
+  <Operation>
+    <TypeOfOperation>Shoot</TypeOfOperation>
+    <Sum>20</Sum>
+    <DateOfOperation>14.04.2017 0:00:00</DateOfOperation>
+  </Operation>
+  <Operation>
+    <TypeOfOperation>Transfer</TypeOfOperation>
+    <Sum>59</Sum>
+    <DateOfOperation>15.04.2017 0:00:00</DateOfOperation>
+  </Operation>
+  <Operation>
+    <TypeOfOperation>Shoot</TypeOfOperation>
+    <Sum>77</Sum>
+    <DateOfOperation>09.04.2017 0:00:00</DateOfOperation>
+  </Operation>
+</ArrayOfOperation>
